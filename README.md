@@ -1,5 +1,9 @@
 # Hi there, I'm Fathan! 🚀 
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=F5792A&width=450&lines=%3E+Full+Stack+Dev;%3E+Blenderrrr" alt="Typing SVG" />
+</a>
+
 ### 👨‍💻 Full-stack Developer & Creative Designer
 Started my journey in **5th grade** with a curious mind and a copy of Python. Since then, I've evolved from simple scripts to building complex applications and 3D environments.
 
