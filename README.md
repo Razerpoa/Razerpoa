@@ -4,7 +4,7 @@
 Started my journey in **5th grade** with a curious mind and a copy of Python. Since then, I've evolved from simple scripts to building complex applications and 3D environments.
 
 * 🌍 Based in **Indonesia**
-* ⚡ Fun fact: I treat code like art and design like logic.
+* ⚡ Fun fact: I can make a CRUD app in just less than an hour
 * ✉️ Reach me at: [fathandwipayana@gmail.com](mailto:fathandwipayana@gmail.com)
 
 ---
