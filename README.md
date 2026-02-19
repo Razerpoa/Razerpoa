@@ -1,4 +1,4 @@
-# Hi there, I'm Fathan! 🚀 
+# Hi There!!!i!1
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=F5792A&width=450&lines=%3E+Full+Stack+Dev;%3E+Blenderrrr;%3E+Editinggggg" alt="Typing SVG" />
