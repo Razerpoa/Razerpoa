@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=F5792A&width=450&lines=%3E+Full+Stack+Dev;%3E+Blenderrrr;%3E+Editinggggg" alt="Typing SVG" />
 </a>
 
-### 👨‍💻 Full-stack Developer & Creative Designer
+### 👨‍💻 Full-stack Developer | Creative Designer | AI Orchestrator
 Started my journey in **5th grade** with a curious mind and a copy of Python. Since then, I've evolved from simple scripts to building complex applications and 3D environments.
 
 * 🌍 Based in **Indonesia**
-* ⚡ Fun fact: I can make a CRUD app in just less than an hour
+* ⚡ Fun fact: I don't just code alone ;)
 * ✉️ Reach me at: [fathandwipayana@gmail.com](mailto:fathandwipayana@gmail.com)
 
 ---
@@ -33,13 +33,24 @@ Started my journey in **5th grade** with a curious mind and a copy of Python. Si
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🎨 Creative & Tools
+#### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini--CLI-8E75E2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenCode-1B211A?style=for-the-badge&logo=opencode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-0D1A63?style=for-the-badge&logo=antigravity&logoColor=white" />
+</p>
+
+#### 🎨 Creative & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+</p>
+
+#### ⚙️ Infrastructure & OS
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
