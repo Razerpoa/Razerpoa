@@ -8,7 +8,7 @@
 Started my journey in **5th grade** with a curious mind and a copy of Python. Since then, I've evolved from simple scripts to building complex applications and 3D environments.
 
 * 🌍 Based in **Indonesia**
-* ⚡ Fun fact: I don't just code alone ;)
+* ⚡ Fun fact: I use ArchLinux btw
 * ✉️ Reach me at: [fathandwipayana@gmail.com](mailto:fathandwipayana@gmail.com)
 
 ---
