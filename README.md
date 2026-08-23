@@ -8,7 +8,7 @@
 
 ---
 
-I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I'm really interested in Photography and Hiking. But beyond my hobbies i have strong interest in Programming and love working with multiple AI agents.
+I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I'm really interested in Photography and Hiking and currently learning **Chinese**/中文. But beyond my hobbies i have strong interest in Programming and love working with multiple AI agents.
 
 ## 👑 My Achievements
 - Turned an **Acer Aspire E 14** laptop into a 24/7 NAS, minecraft server and a qBittorrent seeder
