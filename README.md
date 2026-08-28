@@ -8,17 +8,17 @@
 
 ---
 
-I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I'm really interested in Photography and Hiking and currently learning **Chinese**/中文. But beyond my hobbies i have strong interest in Programming and love working with multiple AI agents.
+I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I really like Photography and Hiking and currently learning **Chinese**/中文. But beyond my hobbies i have strong interest in Programming and love working with multiple AI agents.
 
 ## 👑 My Achievements
 - Turned an **Acer Aspire E 14** laptop into a 24/7 NAS, minecraft server and a qBittorrent seeder
 - Created my own **VPN** using WireGuard
-- Make my own **DNS Server** supporting DoH (DNS-Over-HTTPS) and DoT (DNS-Over-TLS) using Technitium and Nginx for reverse proxy and ssl (you can try it right now, set [stinkylab.my.id](https://stinkylab.my.id) as the DNS Server)
+- Built my own **DNS Server** supporting DoH (DNS-Over-HTTPS) and DoT (DNS-Over-TLS) using Technitium and Nginx for reverse proxy and ssl (you can try it right now, set [stinkylab.my.id](https://stinkylab.my.id) as the DNS Server)
 
 
 ## 🚀 Projects
-- [Hartikeun](github.com/Razerpoa/hartikeun/) - Website for translating native sundanese or Gen-Z slang to understandable english or indonesian
-- [Mitra Muda](https://github.com/Razerpoa/itechcup-2026) - Platform for small to medium businesses to connect to talented young people (My Teams [@Faaizhamdhy](https://github.com/Faaizhamdhy) [@RaffaRizqi](https://github.com/RaffaRizqi))
+- [Hartikeun](github.com/Razerpoa/hartikeun/) - Website for translating native Sundanese or Gen-Z slang to understandable English or Indonesian
+- [Mitra Muda](https://github.com/Razerpoa/itechcup-2026) - Platform for small to medium businesses to connect to talented young people (Team: [@Faaizhamdhy](https://github.com/Faaizhamdhy) [@RaffaRizqi](https://github.com/RaffaRizqi))
 
 ### ✨ Expertise
 - 🖥️ **Full Stack Development** (Frontend, primarily Backend)
