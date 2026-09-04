@@ -17,7 +17,7 @@ I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I really like Photography a
 
 
 ## 🚀 Projects
-- [Hartikeun](github.com/Razerpoa/hartikeun/) - Website for translating native Sundanese or Gen-Z slang to understandable English or Indonesian
+- [Hartikeun](github.com/Razerpoa/hartikeun) - Website for translating native Sundanese or Gen-Z slang to understandable English or Indonesian
 - [Mitra Muda](https://github.com/Razerpoa/itechcup-2026) - Platform for small to medium businesses to connect to talented young people (Team: [@Faaizhamdhy](https://github.com/Faaizhamdhy) [@RaffaRizqi](https://github.com/RaffaRizqi))
 
 ### ✨ Expertise
