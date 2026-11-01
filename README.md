@@ -10,7 +10,7 @@
 
 I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I really like Photography and Hiking and currently learning **Chinese**/中文. But beyond my hobbies i have strong interest in Programming and love working with multiple AI agents.
 
-## 👑 My Achievements
+## 👑 Stuff i did
 - Turned an **Acer Aspire E 14** laptop into a 24/7 NAS, minecraft server and a qBittorrent seeder
 - Created my own **VPN** using WireGuard
 - Built my own **DNS Server** supporting DoH (DNS-Over-HTTPS) and DoT (DNS-Over-TLS) using Technitium and Nginx for reverse proxy and ssl (you can try it right now, set [stinkylab.my.id](https://shrubby.cloud) as the DNS Server)
