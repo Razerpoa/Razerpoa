@@ -13,7 +13,7 @@ I'm Fathan Assidqi. A student at SMKN 2 Tasikmalaya. I really like Photography a
 ## 👑 My Achievements
 - Turned an **Acer Aspire E 14** laptop into a 24/7 NAS, minecraft server and a qBittorrent seeder
 - Created my own **VPN** using WireGuard
-- Built my own **DNS Server** supporting DoH (DNS-Over-HTTPS) and DoT (DNS-Over-TLS) using Technitium and Nginx for reverse proxy and ssl (you can try it right now, set [stinkylab.my.id](https://stinkylab.my.id) as the DNS Server)
+- Built my own **DNS Server** supporting DoH (DNS-Over-HTTPS) and DoT (DNS-Over-TLS) using Technitium and Nginx for reverse proxy and ssl (you can try it right now, set [stinkylab.my.id](https://shrubby.cloud) as the DNS Server)
 
 
 ## 🚀 Projects
